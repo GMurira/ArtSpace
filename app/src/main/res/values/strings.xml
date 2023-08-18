@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">An Art Space APP</string>
+    <string name="lets_go_murira_text">Lets Go Murira</string>
+    <string name="signature_text">From Me</string>
+    <string name="Roll">Roll</string>
+    <string name="button_Previous">Previous</string>
+    <string name="button_Next">Next</string>
+    <string name="Some_Text">Here is Some Text For the Below Apps</string>
+</resources>
